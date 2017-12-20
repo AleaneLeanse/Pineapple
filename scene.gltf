@@ -342,7 +342,7 @@
   ],
   "images": [
     {
-      "uri": "textures/m1_baseColor.png"
+      "uri": "m1_baseColor.png"
     }
   ],
   "materials": [
